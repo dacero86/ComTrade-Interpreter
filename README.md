@@ -19,7 +19,7 @@ Este proyecto se centra en la interpretación de archivos COMTRADE. Los archivos
 
 **3. Diccionario de Normalización:**
 
-* Manejo inteligente de las diferentes convenciones de nomenclatura entre marcas de relés (Siemens, GE y ABBA).
+* Manejo inteligente de las diferentes convenciones de nomenclatura entre marcas de relés (Siemens, GE y ABB).
   
 **4. Graficación de Impedancia de Falla:**
 
