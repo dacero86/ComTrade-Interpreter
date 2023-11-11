@@ -1,4 +1,4 @@
-¡Bienvenido al repositorio del Proyecto ComTrade Interpreter! 🚀
+¡Bienvenido al repositorio del Proyecto ComTrade Interpreter! ⚡
 
 **Descripción:**
 Este proyecto se centra en la interpretación de archivos COMTRADE. Los archivos COMTRADE, utilizados para capturar eventos transitorios en sistemas eléctricos, encuentran su aliado en este intérprete de Python.
@@ -35,4 +35,4 @@ Clona el repositorio.
 Instala las dependencias necesarias.
 Explora el código y utiliza las funciones según tus necesidades.
 Aviso:
-Este proyecto está en constante evolución. Se espera que crezca y se perfeccione con la colaboración de la comunidad. ¡Únete a nosotros mientras avanzamos hacia un futuro energéticamente emocionante! ⚡✨
+Este proyecto está en constante evolución. Se espera que crezca y se perfeccione con la colaboración de la comunidad. 🚀✨
