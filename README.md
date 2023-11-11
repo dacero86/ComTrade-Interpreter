@@ -1,28 +1,33 @@
 ¡Bienvenido al repositorio del Proyecto ComTrade Interpreter! 🚀
 
-Descripción:
+**Descripción:**
 Este proyecto se centra en la interpretación de archivos COMTRADE. Los archivos COMTRADE, utilizados para capturar eventos transitorios en sistemas eléctricos, encuentran su aliado en este intérprete de Python.
 
-Funcionalidades Actuales:
+**Funcionalidades Actuales:**
 
-Carga de Archivos:
+**1. Carga de Archivos:**
 
-Capacidad para interpretar archivos COMTRADE, proporcionando acceso rápido y eficiente a los datos cruciales.
-Generación de Gráficas Dinámicas:
+* Capacidad para interpretar archivos COMTRADE, proporcionando acceso rápido y eficiente a los datos cruciales.
 
-Visualización impresionante de señales digitales activadas durante eventos de fallas eléctricas. ¡Vea la acción en tiempo real!
-Tratamiento de Datos:
+**2. Generación de Gráficas Dinámicas:**
 
-Transformación de datos en bruto para extraer magnitud y fase de las variables analógicas medidas por el relé. La información es poder, ¡y aquí la presentamos de manera clara!
-Diccionario de Normalización:
+* Visualización de señales digitales activadas durante eventos de fallas eléctricas.
+  
+**3. Tratamiento de Datos:**
 
-Manejo inteligente de las diferentes convenciones de nomenclatura entre marcas de relés (Siemens, GE y ABBA). 
-Graficación de Impedancia de Falla:
+* Transformación de datos en bruto para extraer magnitud y fase de las variables analógicas medidas por el relé. 
 
-Obtención de la impedancia de la falla y representación gráfica para un análisis más profundo. 
+**3. Diccionario de Normalización:**
 
-Estado del Proyecto:
-Aunque actualmente en desarrollo, este intérprete ya deslumbra con funciones esenciales. La visión futura incluye la expansión para interpretar archivos de diversas marcas, uniendo todas las funcionalidades en una herramienta integral.
+* Manejo inteligente de las diferentes convenciones de nomenclatura entre marcas de relés (Siemens, GE y ABBA).
+  
+**4. Graficación de Impedancia de Falla:**
+
+* Obtención de la impedancia de la falla y representación gráfica para un análisis más profundo. 
+
+**Estado del Proyecto:**
+* Aunque actualmente en desarrollo, este intérprete ya deslumbra con funciones esenciales. La visión futura incluye la expansión para interpretar archivos de diversas marcas, uniendo 
+  todas las funcionalidades en una herramienta integral.
 
 Instrucciones de Uso:
 
